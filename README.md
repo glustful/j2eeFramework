@@ -1,2 +1,4 @@
-# yiyuangou
-一元购项目
+﻿
+# j2eeFramework
+spring+springmvc+hibernate
+
